@@ -1,5 +1,7 @@
 <?php
-
+/**
+ *  from  https://github.com/lizhichao/sm
+ */
 namespace OneSm;
 
 class Sm3

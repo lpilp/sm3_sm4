@@ -1,3 +1,6 @@
+## 前言
+项目从 lizhichao/one-sm  fork而来，只在sm4的地方增加了补齐的操作，采用php openssl_encrypt的参数表达方式进行了封装， 用例见 tests/tsm4.php  sm3的算法未做修改，可直接使用。 以下的内容为原readme未做修改
+
 ## php国密算法
 
 - sm3
